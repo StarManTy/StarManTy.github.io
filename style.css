@@ -12,6 +12,7 @@ body {
 figure {
   position: relative;
   display: inline-block; /* keeps the figure size tight around the image */
+  margin: 0 auto; /* centers the image */
   margin: 1em 0;
 }
 
@@ -19,7 +20,6 @@ figure img {
   width: 100%;
   max-width: 600px; /* adjust to match paragraph width */
   display: block;
-  margin: 0 auto; /* centers the image */
 }
 
 figure figcaption {
