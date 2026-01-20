@@ -19,6 +19,7 @@ figure img {
   width: 100%;
   max-width: 600px; /* adjust to match paragraph width */
   display: block;
+  margin: 0 auto; /* centers the image */
 }
 
 figure figcaption {
