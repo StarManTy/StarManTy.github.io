@@ -11,9 +11,9 @@ body {
 
 figure {
   position: relative;
-  display: inline-block; /* keeps the figure size tight around the image */
-  margin: 0 auto; /* centers the image */
-  margin: 1em 0;
+  display: inline-block;  /* keeps the figure size tight around the image */
+  margin: 0 auto;         /* centers the image */
+  text-align: left;       /* keeps caption text left-aligned */
 }
 
 figure img {
