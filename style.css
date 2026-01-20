@@ -95,13 +95,6 @@ h2 {
   color: #333;
 }
 
-.project-image {
-  width: 100%;
-  max-width: 600px;
-  display: block;
-  margin: 0 auto; /* centers the image */
-}
-
 footer {
   text-align: center;
   padding: 1rem;
